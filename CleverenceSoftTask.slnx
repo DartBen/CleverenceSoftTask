@@ -8,6 +8,7 @@
     <Project Path="SecondTask/SecondTask.csproj" />
   </Folder>
   <Folder Name="/ThirdTask/">
+    <Project Path="ThirdTask.Tests/ThirdTask.Tests.csproj" Id="599a44bc-f29f-4609-8729-f934f00529c3" />
     <Project Path="ThirdTask/ThirdTask.csproj" Id="7793be40-16a9-45b4-a35b-b85f7638845a" />
   </Folder>
 </Solution>
