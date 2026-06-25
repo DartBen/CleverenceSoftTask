@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/FirstTask/">
+    <Project Path="FirstTask.Tests/FirstTask.Tests.csproj" />
+    <Project Path="FirstTask/FirstTask.csproj" />
+  </Folder>
+  <Folder Name="/SecondTask/">
+    <Project Path="SecondTask.Tests/SecondTask.Tests.csproj" />
+    <Project Path="SecondTask/SecondTask.csproj" />
+  </Folder>
+  <Folder Name="/ThirdTask/">
+    <Project Path="ThirdTask/ThirdTask.csproj" Id="7793be40-16a9-45b4-a35b-b85f7638845a" />
+  </Folder>
+</Solution>
